@@ -1,0 +1,13 @@
+Oppgave 2 
+Mkdir 		= 	lage mappe 
+Cd  ”mappe” 	= 	åpne mappe
+Ls			=	se liste over filer i mappe
+Ls –l			= 	gir mer informasjon om listen, navn, dato osv
+Ls –la		=	viser alle filer I mappen, inkl skjulte.
+Pwd 			=	printer ut mappe destinasjon
+Grep			=	søker I filer etter et mønster
+Cat 			=	printe ut en kjede med filer til standard output
+Less			=	output en skjerm om gangen
+
+Forklar ”pipes and redirection”
+Svar:  pipes er brukt I sybolet “|” som setter skille mellom to kommandoer og gir mulighet til å bruke flere samtidig. For eksempel ved liste og legge til flere sider på listen (ls | more) redirection bytter default strømmen av data som kommer inn fra en kilde annet enn default kilden, og ender opp på et annet sted enn default mål.
